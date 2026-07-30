@@ -1,2 +1,3 @@
 # ShopEase
 Building a Cloud-Native E-Commerce Platform on AWS.
+.
